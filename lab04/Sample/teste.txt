@@ -1,0 +1,11 @@
+if then else while
+var1 _var2 var_with_underscore 123 var123
+123 456.789 1.23E4
+== != < <= > >=
+
+"Hello, world"
+"This string has a \"quoted\" word"
+"A string with \\ backslashes"
+
+"Invalid \" string without closing
+"Another invalid string with \\ one backslash"

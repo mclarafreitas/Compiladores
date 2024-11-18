@@ -1,3 +1,0 @@
-/mnt/c/Users/maria/desktop/lab05/build/CMakeFiles/tradutor.dir
-/mnt/c/Users/maria/desktop/lab05/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/maria/desktop/lab05/build/CMakeFiles/rebuild_cache.dir
